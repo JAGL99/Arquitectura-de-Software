@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "a82500b33bb05810",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db7117d16ec14c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93768c7219f4822d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 2/Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          },
+          {
+            "id": "511664734cdc960c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 2/Características funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Características funcionales"
+            }
+          },
+          {
+            "id": "c0bc0a526697df5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Características del sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Características del sistema"
+            }
+          },
+          {
+            "id": "fde0dbc4427c5a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Arquitecto de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitecto de software"
+            }
+          },
+          {
+            "id": "d49f4af5fb8087e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Principios de diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principios de diseño"
+            }
+          },
+          {
+            "id": "cc359255996d8ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Decisiones arquitectónicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decisiones arquitectónicas"
+            }
+          },
+          {
+            "id": "9128689ab7ebff8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Principios de diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principios de diseño"
+            }
+          },
+          {
+            "id": "41da9eb4dc389d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Arquitecto de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitecto de software"
+            }
+          },
+          {
+            "id": "1a5e0921b827ec86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 2/Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          },
+          {
+            "id": "6b7dc9819a1f8ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Principios de diseño.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principios de diseño"
+            }
+          },
+          {
+            "id": "66b3914b881f593a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Decisiones arquitectónicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decisiones arquitectónicas"
+            }
+          },
+          {
+            "id": "345a559a55a2bd6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 2/Características no funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Características no funcionales"
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "f0beef762f4badb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d895262de070ad9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f4f23134dfc67ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1f40ea870df95b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32da2e417fd4bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfbfef33c693e5ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "arquitectonicas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "749b8168313ed2fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9de7741d48f59e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "e802f33e35f6fd02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702a9c8c44dfa98b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unidad 2/Características del sistema.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Características del sistema"
+            }
+          },
+          {
+            "id": "5c20aa025ac1f150",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unidad 2/Características del sistema.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Características del sistema"
+            }
+          },
+          {
+            "id": "669b8de17e227945",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "988cea95683a0f1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unidad 2/Características del sistema.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Características del sistema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d895262de070ad9",
+  "lastOpenFiles": [
+    "Unidad 2/Características no funcionales.md",
+    "Unidad 2/Características funcionales.md",
+    "Unidad 2/Software.md",
+    "Unidad 1/Decisiones arquitectónicas.md",
+    "Unidad 1/Principios de diseño.md",
+    "Decisiones arquitectónicas.md",
+    "Unidad 1/Estilo arquitectónico.md",
+    "Unidad 1/Características del sistema.md",
+    "Unidad 1/Arquitecto de software.md",
+    "Unidad 1/Arquitectura de software.md",
+    "Unidad 1/Tradeoffs.md",
+    "Unidad 1/Diseño de software.md",
+    "Unidad 1/Desarrollador.md",
+    "Unidad 1/Decisiónes tacticas.md",
+    "Unidad 1/Arquitectura vs Diseño.md",
+    "Unidad 1/Decisión estrategica.md",
+    "[Caracteristicas no funcionales.md",
+    "Unidad 2/Características del sistema.md",
+    "Unidad 1/Amplitud Tecnica.md",
+    "Unidad 3/EDA.md",
+    "Unidad 2",
+    "Unidad 3/SOA.md",
+    "Unidad 3/Microservice.md",
+    "Unidad 3/Microkernel.md",
+    "Unidad 3/Layered.md",
+    "Unidad 3",
+    "src/unidad1/arquitecto_vs_dev_example.png",
+    "src/unidad1/tradeoffs_example.png",
+    "src/unidad1/tradeoffs.png",
+    "src/unidad1/arquitectura_vs_diseño_example.png",
+    "src/unidad1/ADR_example.png",
+    "src/unidad1",
+    "Unidad 1",
+    "principios_de_diseño",
+    "decisiones_arquitectonicas",
+    "caracteristicas_del_sistema",
+    "create a link.md",
+    "src"
+  ]
+}

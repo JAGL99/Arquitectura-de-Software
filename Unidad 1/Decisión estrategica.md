@@ -1,0 +1,1 @@
+Son aquellas decisiones que tienen un mayor impacto al largo plazo y que estas decisiones tienen impacto directo sobre otras

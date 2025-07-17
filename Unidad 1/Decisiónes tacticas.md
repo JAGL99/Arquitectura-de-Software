@@ -1,0 +1,1 @@
+Son decisiones que no tienen correlaciones con otras, por lo que actuan de forma independiente

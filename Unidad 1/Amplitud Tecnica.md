@@ -1,0 +1,2 @@
+Se refiere al enfoque que debe de tener un arquitecto al momento de prepararse, donde contrario a un desarrollador, el arquitecto no debe de tener una gran profundidad al momento de desarrollar un sistema pero si una gran amplitud en los temas tecnicos para poder orientar los esfuerzos del equipo de desarrollo como se puede ver en la siguiente imagen:
+[![Ejemplo](src/unidad1/arquitecto_vs_dev_example.png)]

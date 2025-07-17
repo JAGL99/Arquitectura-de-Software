@@ -1,0 +1,1 @@
+Son las [[Características no funcionales]] del sistema

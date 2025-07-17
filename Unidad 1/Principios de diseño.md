@@ -1,0 +1,1 @@
+Son una guía, mas no una regla del como se debe trabajar para desarrollar nuevas soluciones que no esten contempladas en las [[Decisiones arquitectónicas]]
